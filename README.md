@@ -1,4 +1,4 @@
-# reflexion-privacy-policy                                                                                                                                  REFLEXION – Privacy Policy 
+# Reflexion-privacy-policy                                                                                                                                  
 Last updated: December 2025
 This Privacy Policy explains how Reflexion (“the App”) collects, uses, and protects user data.
 Reflexion is a mobile game developed for entertainment purposes.
